@@ -1,0 +1,17 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "fondy",
+  "license": "open",
+  "category": "payments",
+  "description": {
+    "name": "Alliance bank",
+    "tagline": "A third party payment gateway."
+  },
+  "authors": [
+    {
+      "name": "DM",
+      "homepage": "https:\/\/example.com\/"
+    }
+  ]
+}
